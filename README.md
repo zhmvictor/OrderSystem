@@ -18,11 +18,15 @@
 密码：admin
 ![登录界面](https://github.com/zhmvictor/OrderSystem/blob/master/demo/登录界面.png)
 
+
+
 ####顾客结账界面
 首页
 ![顾客结账界面](https://github.com/zhmvictor/OrderSystem/blob/master/demo/顾客结账界面.png)
 订单详情
 ![订单详情](https://github.com/zhmvictor/OrderSystem/blob/master/demo/订单详情.png)
+
+
 
 ####员工管理界面
 首页
@@ -32,6 +36,8 @@
 添加员工
 ![添加员工](https://github.com/zhmvictor/OrderSystem/blob/master/demo/添加员工.png)
 
+
+
 ####菜品管理界面
 首页
 ![菜品管理界面](https://github.com/zhmvictor/OrderSystem/blob/master/demo/菜品管理界面.png)
@@ -39,6 +45,8 @@
 ![菜品详情](https://github.com/zhmvictor/OrderSystem/blob/master/demo/菜品详情.png)
 添加菜品
 ![添加菜品](https://github.com/zhmvictor/OrderSystem/blob/master/demo/添加菜品.png)
+
+
 
 ####查看经营数据界面
 ![查看经营数据界面](https://github.com/zhmvictor/OrderSystem/blob/master/demo/查看经营数据.png)
